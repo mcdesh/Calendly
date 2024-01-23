@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    
+    
+}
+#con{
+    background-color: rgb(244, 241, 241);
+    border-style: none;
+}
+#bundle{ text-align: start;
+}
+#bar{
+    border-style: none;
+}
+.one{
+    border: 1px solid;
+    border-radius: 40px;
+    background-color: blue;
+    color: white;
+}
+#for{
+    border-style: none;
+}
+#sign{
+    position: sticky;
+    position:relative;
+    left: 17em;
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    width: 70px;
+    height: 35px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+   
+    
+    
+}
+#signup{
+    border-radius: 20px;
+   width: 250px;
+   height: 40px;
+   
+   
+}

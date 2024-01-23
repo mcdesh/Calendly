@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.card{
+    border-radius: 30px;
+    border-color: rgb(229, 242, 253);
+    border:  groove;
+    background-color: rgb(244, 240, 240);
+    border-style: none;
+}
